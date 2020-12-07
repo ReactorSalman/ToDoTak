@@ -1,0 +1,15 @@
+.todo {
+  cursor: pointer;
+}
+.strike {
+  text-decoration: line-through;
+}
+
+.checkbox-margin {
+  margin-right: 20px;
+}
+
+.task-alignment {
+  text-align: justify;
+  padding-left: 300px;
+}
